@@ -54,12 +54,4 @@ This project performs exploratory data analysis (EDA) on the Zomato restaurant d
 
 ---
 
-## 📊 Sample Visuals
 
-<img src="screenshots/top_cuisines.png" width="600"/>
-<img src="screenshots/ratings_distribution.png" width="600"/>
-
----
-## 🚀 How to Run
-
-1. Clone the repo:
